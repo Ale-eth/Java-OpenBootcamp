@@ -23,3 +23,8 @@
            if (numero1 > numero2  &&  numero2 > numero3){                 // Mismo caso pero con 2 condiciones, si se cumplen ambas, es verdadero
               System.out.println(numero1 +" es mayor que "+ numero2);     // && and || or
           }
+
+
+
+
+
