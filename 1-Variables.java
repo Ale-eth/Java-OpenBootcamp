@@ -1,4 +1,9 @@
-	public static void main(String[] args) {
+
+
+
+
+
+
 		
 		System.out.println("Hola Mundo");   // Imprimir por consola
 		
@@ -23,3 +28,8 @@
 			// Textos
 					String nombre = "Alejandro";
 					
+
+
+
+
+
