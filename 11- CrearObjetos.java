@@ -40,3 +40,11 @@
           System.out.println(autoObj);   // Imprime todas las caracteristicas del objeto
       }
     }
+
+
+
+
+
+
+
+
