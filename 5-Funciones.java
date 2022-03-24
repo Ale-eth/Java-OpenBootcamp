@@ -1,6 +1,6 @@
 
   holaMundo();
-    private static void holaMundo(){
+    private static void holaMundo(){                    // void significa que no devuelve nada
       Syatem.out.println("Hola Mundo!");
      }
 
@@ -10,7 +10,19 @@
       System.out.println("Hola, "+ nombre + "!");
     }
 
-  returnHola("Ale");
-    private static String returnHola(String nombre){
-      return ("Hola, "+ nombre + "!");
+  sumar(1, 5);
+    private static int sumar(int numero1, int numero2){    // Si hay return, hay que especificar el tipo de dato que va a devolver
+      return (numero1 + numero2);
     }
+
+
+
+    // Modificadores en funciones
+        // 1
+        private   
+        public
+        protected
+          
+        // 2
+        static
+        
