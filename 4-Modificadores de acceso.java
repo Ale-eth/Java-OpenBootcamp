@@ -1,4 +1,7 @@
 
+
+
+
   int numero;   // Cualquier clase que este en su mismo paquete podra acceder 
 
   public int numero;  // Cualquier clase que este en su mismo paquete o no, podra acceder 
@@ -24,3 +27,10 @@ default :   - Su misma clase
             - Otra clase del mismo paquete
 
 private :   - Su misma clase
+
+
+
+
+
+
+
